@@ -2,4 +2,4 @@ new line
 Другая строка
 
 hello, git!
-Hello, git rebase!
+Hello, git cherry-pick!
